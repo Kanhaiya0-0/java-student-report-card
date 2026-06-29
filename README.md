@@ -1,18 +1,47 @@
-## Getting Started
+# 📘 Student Report Card System (Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple Java console application that generates a student's report card based on marks and attendance.
 
-## Folder Structure
+## ✨ Features
 
-The workspace contains two folders by default, where:
+* Accepts student name
+* Accepts marks
+* Accepts attendance percentage
+* Calculates Pass/Fail
+* Calculates Grade (A–F)
+* Checks exam eligibility
+* Displays a formatted report card
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Concepts Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Java Methods
+* Scanner (User Input)
+* if / else if / else
+* Return Values
+* Parameters & Arguments
+* Logical Operators
+* Console Formatting
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📸 Sample Output
 
-## Dependency Management
+========= REPORT CARD =========
+Name: Kanhaiya
+Marks: 86
+Attendance: 91%
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Result: Pass
+Grade: B
+Eligibility for Exam: Eligible
+================================
+
+## 📚 What I Learned
+
+While building this project, I practiced:
+
+* Breaking a problem into smaller methods
+* Writing reusable code
+* Improving code readability
+* Formatting console output
+* Organizing Java programs
+
+**Project #1 of my Java learning journey.**
