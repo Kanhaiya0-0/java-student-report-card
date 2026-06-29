@@ -27,7 +27,6 @@ A simple Java console application that generates a student's report card based o
 Name: Kanhaiya
 Marks: 86
 Attendance: 91%
-
 Result: Pass
 Grade: B
 Eligibility for Exam: Eligible
