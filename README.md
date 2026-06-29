@@ -23,8 +23,6 @@ A simple Java console application that generates a student's report card based o
 * Console Formatting
 
 ## 📸 Sample Output
-
-```text
 ========= REPORT CARD =========
 Name: Kanhaiya
 Marks: 86
@@ -34,7 +32,6 @@ Result: Pass
 Grade: B
 Eligibility for Exam: Eligible
 ================================
-```
 
 ## 📚 What I Learned
 
@@ -45,7 +42,5 @@ While building this project, I practiced:
 * Improving code readability
 * Formatting console output
 * Organizing Java programs
-
----
 
 **Project #1 of my Java learning journey.**
